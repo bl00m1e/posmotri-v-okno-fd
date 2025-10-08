@@ -280,7 +280,7 @@ ol {
 }
 
 .content__card-link:active {
-  background-color: rgb(84 80 80 / 0.6);
+  background-color: #545050;
 }
 
 .content__card-link:hover .content__video-card-title,
